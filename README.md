@@ -7,8 +7,8 @@
 ## 📊 Veri Seti (Dataset)
 Model eğitiminde toplam **6.113** adet görüntü kullanılmıştır. Sınıflar arasındaki veri dengesizliğini gidermek amacıyla eğitim sürecinde sınıf ağırlıklandırma (`class_weight`) ve veri çoğaltma (Data Augmentation) teknikleri uygulanmıştır.
 
-* **Psoriasis (Sedef Hastalığı):** [Kaggle - Psoriasis Dataset](https://www.kaggle.com/datasets/aditipathak17/psoriasis) (1.586 görsel)
-* **Eczema (Egzama) & Normal:** [Kaggle - Eczema Dataset](https://www.kaggle.com/datasets/adityush/eczema2?resource=download) (1.544 Egzama, 2.983 Sağlıklı görsel)
+* **Psoriasis (Sedef Hastalığı):** [Kaggle - Psoriasis Dataset](https://www.kaggle.com/datasets/aditipathak17/psoriasis) 
+* **Eczema (Egzama):** [Kaggle - Eczema Dataset](https://www.kaggle.com/datasets/adityush/eczema2?resource=download)
 
 ---
 
